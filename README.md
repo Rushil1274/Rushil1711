@@ -3,12 +3,7 @@
 **`Digital Craftsman (Full Stack/AI/ML)`**
 
  I am a versatile Full Stack Developer with a strong foundation in Django, Python, and Next.js, complemented by proficiency in Artificial Intelligence, Machine Learning, and OpenCV. My insatiable curiosity drives me to continually explore new technologies, while my problem-solving mindset enables me to craft innovative solutions. I am dedicated to leveraging my diverse skill set to create impactful and forward-thinking solutions, contributing to the dynamic landscape of software development.  
-
-   <p align="left">
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
+ 
 ---
 
 ### 🧰 Languages and Tools
