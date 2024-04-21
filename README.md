@@ -1,10 +1,16 @@
 # 🏄‍♂️Rushil1274
 
+<h1 align="center">Hi 👋, I'm Rushil Panchal</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
+
 **`Digital Craftsman (Full Stack/AI/ML)`**
 
  I am a versatile Full Stack Developer with a strong foundation in Django, Python, and Next.js, complemented by proficiency in Artificial Intelligence, Machine Learning, and OpenCV. My insatiable curiosity drives me to continually explore new technologies, while my problem-solving mindset enables me to craft innovative solutions. I am dedicated to leveraging my diverse skill set to create impactful and forward-thinking solutions, contributing to the dynamic landscape of software development.  
  
 ---
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushil1724&label=Profile%20views&color=0e75b6&style=flat" alt="rushil1724" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rushil1274](https://github.com/Rushil1274)
